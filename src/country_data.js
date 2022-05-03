@@ -1285,6 +1285,7 @@ const rawAllCountries = [
     ['asia'],
     'lk',
     '94',
+    '+.. .. ... ....',
   ],
   [
     'Sudan',
